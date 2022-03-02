@@ -25,8 +25,8 @@ _Nuxt Starter Kit_ is an opinionated boilerplate based off of [Nuxt3](https://v3
 
 Out of the box you get all the `essentials`
 
-- **Typescript** as the Nuxt Module setup
-- **Tailwind Module** via Nuxt Tailwind Module for zero configuration start and view config via `http://localhost:3000/_tailwind/`
+- **Typescript** strict typescheck setup [Do read this ](https://v3.nuxtjs.org/concepts/typescript)
+- **Tailwind Module** via [Nuxt Tailwind Module for zero configuration](https://tailwindcss.nuxtjs.org/setup) start and view config via `http://localhost:3000/_tailwind/`
 - **editorconfig** for Consistent styling
 - **ESLint** for static code analysis (added but it's currently failing due to [#171](https://github.com/nuxt/eslint-config/issues/171)) and
 - **Prettier** for code formatting
